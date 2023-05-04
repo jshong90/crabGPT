@@ -1,0 +1,133 @@
+{
+  "restaurant_name": "Surfside Seafood",
+  "location": "550 East Surfside Drive, Port Hueneme, CA 93041",
+  "phone_number": "(555) 123-4567",
+  "website": "www.surfsideph.com",
+  "email": "help@surfsideph.com",
+  "operating_hours": {
+    "monday": "10:30 AM - 08:00 PM",
+    "tuesday": "11:00 AM - 08:00 PM",
+    "wednesday": "11:00 AM - 08:30 PM",
+    "thursday": "11:00 AM - 08:00 PM",
+    "friday": "11:00 AM - 08:30 PM",
+    "saturday": "11:00 AM - 08:30 PM",
+    "sunday": "11:00 AM - 9:00 PM"
+  },
+  "menu": {
+    "appetizers": [
+      {
+        "name": "Onion rings",
+        "description": "Tasty beer-battered onion rings, deep fried in vegetable oil and served with our creamy homemade Southern ranch dressing.",
+        "price": "$7.95",
+        "allergens": ["none"],
+        "substitutions": ["none"]
+      },
+      {
+        "name": "Seasoned broccoli florets",
+        "description": "Broccoli florets lightly seared and seasoned with fresh Kondo seasoning.",
+        "price": "$6.95",
+        "allergens": ["dairy"],
+        "substitutions": ["asparagus"]
+      }
+    ],
+    "main_courses": [
+      {
+        "name": "Grilled Salmon Entree",
+        "description": "Grilled salmon fillet topped with pesto sauce. Comes with steamed vegetables, fluffy white rice, and toasted garlic bread.",
+        "price": "$28.95",
+        "allergens": ["fish, garlic bread"],
+        "substitutions": ["more vegetables instead of rice", "more rice instead of vegetables", "no garlic bread"]
+      },
+      {
+        "name": "Grilled Halibut Entree",
+        "description": "Grilled salmon fillet topped with pesto sauce. Comes with steamed vegetables, fluffy white rice, and toasted garlic bread.",
+        "price": "$28.95",
+        "allergens": ["fish, garlic bread"],
+        "substitutions": ["more vegetables instead of rice", "more rice instead of vegetables", "no garlic bread"]
+      }
+    ],
+    "Samplers": [
+      {
+        "name": "Surfside Special",
+        "description": "Two pieces of our famous deep-fried Alaskan cod, four pieces of our deep-fried jumbo shrimp, and a side of French fries and coleslaw. Comes with tartar sauce and cocktail sauce.",
+        "price": "$26.95",
+        "allergens": ["fish", "shellfish (shrimp)", "dairy (mayo, tartar sauce)", "eggs(tartar sauce)"],
+        "substitutions": ["more fries instead of coleslaw", "rice instead of french fries"]
+      }
+    ],
+    "Sweets": [
+      {
+        "name": "Creamy Dole Pineapple Whip",
+        "description": "What more needs to be said? Perfect for a warm day.",
+        "price": "$7.95",
+        "allergens": ["dairy", "eggs"],
+        "substitutions": ["sorbet"]
+      }
+      
+    ]
+  },
+"events": [
+    {
+      "name": "Wednesdays with Theresa",
+      "description": "Join us every Wednesday from 7 PM - 10 PM for live music featuring local artist Theresa Russell",
+      "frequency": "weekly",
+      "day": "Wednesday",
+      "time": "7:00 PM - 10:00 PM"
+    },
+    {
+      "name": "Wine Tasting Night",
+      "description": "Sample a selection of our finest wines paired with delicious appetizers. Limited seating, reserve in advance.",
+      "frequency": "monthly",
+      "day": "First Wednesday",
+      "time": "6:00 PM - 8:00 PM"
+    }
+  ],
+
+"conversations": [
+  {
+      "user_input": "What's the name of the restaurant?",
+      "bot_response": "The name of the restaurant is Surfside Seafood."
+  },
+  {
+      "user_input": "What's the phone number?",
+      "bot_response": "The phone number is (555) 123-4567."
+  },
+  {
+      "user_input": "What's the website?",
+      "bot_response": "The website is www.surfsideph.com."
+  },
+  {
+      "user_input": "What's the address?",
+      "bot_response": "The address is 550 East Surfside Drive, Port Hueneme, CA 93041."
+  },
+  {
+      "user_input": "What are the operating hours on Friday?",
+      "bot_response": "The operating hours on Friday are 11:00 AM - 08:30 PM."
+  },
+  {
+      "user_input": "What are the appetizers on the menu?",
+      "bot_response": "We have onion rings and seasoned broccoli florets as appetizers."
+  },
+  {
+      "user_input": "What are the ingredients in the onion rings?",
+      "bot_response": "The onion rings are made with beer-battered onions, deep fried in vegetable oil, and served with our homemade Southern ranch dressing."
+  },
+  {
+      "user_input": "What are the main courses on the menu?",
+      "bot_response": "We have grilled salmon entree and grilled halibut entree as our main courses."
+  },
+  {
+      "user_input": "What's in the Surfside Special 2x4 sampler?",
+      "bot_response": "The Surfside Special 2x4 sampler includes two pieces of deep-fried Alaskan cod, four pieces of deep-fried jumbo shrimp, and a side of French fries and coleslaw. It comes with tartar sauce and cocktail sauce."
+  },
+  {
+      "user_input": "What's the price of the creamy Dole pineapple whip?",
+      "bot_response": "The price of the creamy Dole pineapple whip is $7.95."
+  },
+  {
+      "user_input": "What events does the restaurant have?",
+      "bot_response": "We have Wednesdays with Theresa, featuring live music every Wednesday from 7 PM - 10 PM and Wine Tasting Night on the first Wednesday of every month from 6:00 PM - 8:00 PM."
+  }
+]
+}
+

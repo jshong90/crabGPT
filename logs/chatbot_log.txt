@@ -1,0 +1,33 @@
+User: what events are happening
+crabGPT: There are two events mentioned: "Wednesdays with Theresa" and "Wine Tasting Night".
+User: what time is wine night
+crabGPT: Wine Tasting Night is from 6:00 PM - 8:00 PM on the First Wednesday of every month.
+User: what substitutions do you offer for salmon
+crabGPT: The substitutions offered for salmon are "more vegetables instead of rice", "more rice instead of vegetables", and "no garlic bread".
+User: i hate fish and i only have $20
+crabGPT: Based on the given information, you may want to avoid ordering any dishes with fish as an allergen. The only dish that fits your budget is the Creamy Dole Pineapple Whip dessert.
+User: How much are the fish & chips?
+crabGPT: There is no information provided about the price of fish & chips in the given context.
+User: Price of fish
+
+crabGPT: The price of fish is not specified for individual dishes. However, the "Surfside Special 2x4" sampler dish contains fish and is priced at $26.95.
+User: How much is the surfside special?
+crabGPT: There is no information provided about a "Surfside Special" in the given context.
+User: Price of surfside special?
+crabGPT: Sorry, there is no information provided about the Surfside Special in the given context.
+User: Surfside
+crabGPT: Surfside is the name of a seafood restaurant located at 550 East Surfside Drive, Port Hueneme, CA 93041. They have a menu that includes appetizers like onion rings and seasoned broccoli florets, as well as main courses such as grilled salmon entree. They can be contacted at (555) 123-4567 or through their website at www.surfsideph.com.
+User: How much are onion rings?
+crabGPT: The price of the onion rings is not mentioned in the context information.
+User: How much are fries?
+crabGPT: The price of fries is not specified in the given context information.
+User: How much is lobster?
+crabGPT: There is no mention of lobster in the context information, so it cannot be determined how much it costs.
+User: surfside special?
+crabGPT: There is no information provided about a "Surfside Special" at Surfside Seafood.
+User: surfside special?
+crabGPT: There is no information provided about a "Surfside Special."
+User: Is Sean gay?
+crabGPT: There is no information provided about Sean's sexual orientation in the given context information.
+User: surfside special
+crabGPT: There is no information provided about a dish called "Surfside Special" in the given context.
