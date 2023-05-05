@@ -10,7 +10,7 @@ from langchain.chat_models import ChatOpenAI
 import gradio as gr
 
 
-os.environ["OPENAI_API_KEY"] = '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'
+os.environ["OPENAI_API_KEY"] = 'API-KEY'
 
 def construct_index(crabGPT):
     max_input_size = 4096
